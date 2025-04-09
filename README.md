@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Sobre HTML, CSS e JavaScript
 -->
 <a href="https://github.com/daniel-Vasconselos/github-readme-stats">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-Vasconselos&show_icons=true&theme=gruvbox" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-Vasconselos&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-Vasconselos&layout=compact&langs_count=8&theme=gruvbox&card_width=320" />
